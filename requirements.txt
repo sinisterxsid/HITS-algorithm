@@ -1,0 +1,5 @@
+matplotlib==3.3.4
+numpy==1.20.1
+python_igraph==0.9.8
+scipy==1.6.2
+tweepy==4.1.0
